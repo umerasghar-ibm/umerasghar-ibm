@@ -1,0 +1,9 @@
+#docker cheatsheet
+
+docker run -d tomcat
+docker run -d -p 80:8080 tomcat
+docker exec -it 3f76a9b718bd /bin/bash
+
+find . -name '*war' -exec cp "{}" /home/shantanu/tosend  \;
+
+docker run -d -p 80:8080 --mount type=bind,source=/Users/umerasghar/docker/tomcat/webpage,target=/usr/local/tomcat/webapps tomcat
