@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umer Asghar
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning Redhat
+- 🌱 I’m currently learning Redhat (mainly cloud)
 - 📫 How to reach me umerasghar@gmail.com
 
 <!---
